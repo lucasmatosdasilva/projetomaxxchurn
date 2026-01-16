@@ -91,11 +91,7 @@ Antes de apresentar/rodar em outra máquina, **altere o e-mail de destino** no a
 ---
 
 ## Banco de dados / Dados
-Este projeto **não utiliza banco de dados relacional**. A base usada para alimentar o dashboard e análises é fornecida por arquivos (CSV/XLSX).  
-Para rodar localmente, é obrigatório adicionar:
-- `datasetdashboard.csv`
-- `datasetdashboard.xlsx`
-(conforme o Passo 1)
+https://github.com/emanuellelaune/codigos_churn
 
 ---
 
